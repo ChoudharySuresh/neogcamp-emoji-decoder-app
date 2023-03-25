@@ -1,0 +1,18 @@
+.App {
+  font-family: "Inter", sans-serif;
+  text-align: center;
+}
+input {
+  width: 100%;
+  max-width: 500px;
+  padding: 7px;
+  font-size: 18px;
+  margin-bottom: 15px;
+}
+.list-item {
+  list-style: none;
+  display: inline;
+  padding: 15px;
+  font-size: 30px;
+  cursor: pointer;
+}
